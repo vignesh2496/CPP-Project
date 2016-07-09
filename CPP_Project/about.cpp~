@@ -1,6 +1,7 @@
 #include<iostream.h>
 #include<graphics.h>
 
+//About page
 void about()
 {
     initwindow(1300,700);
